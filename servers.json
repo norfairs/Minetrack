@@ -1,22 +1,48 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "1b1t",
+		"ip": "1b1t.tk",
 		"type": "PC"
 	},
 	{
-		"name": "HiveMC",
-		"ip": "play.hivemc.com",
+		"name": "2b2t",
+		"ip": "2b2t.org",
 		"type": "PC"
 	},
 	{
-		"name": "Mineplex",
-		"ip": "us.mineplex.com",
+		"name": "6b6t",
+		"ip": "6b6t.org",
 		"type": "PC"
 	},
 	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
+		"name": "8b8t",
+		"ip": "8b8t.xyz",
+		"type": "PC"
+	},
+	{
+		"name": "9b9t",
+		"ip": "9b9t.org",
+		"type": "PC"
+	},
+	{
+		"name": "10b10t",
+		"ip": "10b10t.org",
+		"type": "PC"
+	},
+
+	{
+		"name": "Constantiam",
+		"ip": "constantiam.net",
+		"type": "PC"
+	},
+	{
+		"name": "Oldfag",
+		"ip": "oldfag.org",
+		"type": "PC"
+	},
+	{
+		"name": "L2X9",
+		"ip": "l2x9.org",
 		"type": "PC"
 	}
 ]
