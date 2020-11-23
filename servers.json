@@ -1,5 +1,10 @@
 [
 	{
+		"name": "World Anarchy",
+		"ip": "worldanarchy.party",
+		"type": "PC"
+	},
+	{
 		"name": "1b1t",
 		"ip": "1b1t.tk",
 		"type": "PC"
