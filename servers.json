@@ -1,65 +1,48 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "1b1t",
+		"ip": "1b1t.tk",
 		"type": "PC"
 	},
 	{
-		"name": "HiveMC",
-		"ip": "play.hivemc.com",
-		"type": "PC",
-		"color": "#ffcb03"
-	},
-	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
-		"type": "PC",
-		"color": "#176093"
-	},
-	{
-		"name": "Shotbow",
-		"ip": "us.shotbow.net",
+		"name": "2b2t",
+		"ip": "2b2t.org",
 		"type": "PC"
 	},
 	{
-		"name": "Wynncraft",
-		"ip": "play.wynncraft.com",
+		"name": "6b6t",
+		"ip": "6b6t.org",
 		"type": "PC"
 	},
 	{
-		"name": "Mineplex",
-		"ip": "us.mineplex.com",
-		"type": "PC",
-		"color": "#ec8008"
-	},
-	{
-		"name": "Cosmic PVP",
-		"ip": "mc.cosmicpvp.me",
+		"name": "8b8t",
+		"ip": "8b8t.xyz",
 		"type": "PC"
 	},
 	{
-		"name": "Rewinside",
-		"ip": "mc.rewinside.tv",
-		"type": "PC"
-	},
-  	{
- 		"name": "Timolia",
- 		"ip": "play.timolia.de",
- 		"type": "PC"
-  	},
-	{
-		"name": "FunCraft",
-		"ip": "premium.funcraft.net",
+		"name": "9b9t",
+		"ip": "9b9t.org",
 		"type": "PC"
 	},
 	{
-		"name": "GommeHD",
-		"ip": "play.gommehd.net",
+		"name": "10b10t",
+		"ip": "10b10t.org",
+		"type": "PC"
+	},
+
+	{
+		"name": "Constantiam",
+		"ip": "constantiam.net",
 		"type": "PC"
 	},
 	{
-		"name": "Minehut",
-		"ip": "mc.minehut.com",
+		"name": "Oldfag",
+		"ip": "oldfag.org",
+		"type": "PC"
+	},
+	{
+		"name": "L2X9",
+		"ip": "l2x9.org",
 		"type": "PC"
 	}
 ]
